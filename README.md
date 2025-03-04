@@ -3,7 +3,7 @@
 
 ![](https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif)
 
-- 🔭 I’m currently doing my master's degree at University Of Hull
+- 🔭 I’m currently doing my master's degree in Advanced computer science at University Of Hull
 - 🌱 I’m currently learning VR, Gamification, dependable reactive real time systems
 - 👯 I’m looking to collaborate on any project that I can contribute
 - 💬 Ask me about everything you wonder
